@@ -1,6 +1,6 @@
-# radial_animation
+# Animated_radial_Menu_in_Flutter
 
-A new Flutter project.
+Animated Menu in Flutter using radial.
 
 ## Getting Started
 
